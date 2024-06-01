@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 One thousand burning arrows1
 Fill the starlit sky
+=======
+The ship glides dently on the waves
+As day turns into night
+>>>>>>> feature-branch
